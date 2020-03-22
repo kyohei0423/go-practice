@@ -1,0 +1,9 @@
+{
+  "go.autocompleteUnimportedPackages": true,
+  "go.coverOnTestPackage": false,
+  "go.formatTool": "gofmt",
+  "go.gotoSymbol.includeImports": true,
+  "go.gotoSymbol.includeGoroot": true,
+  "go.useCodeSnippetsOnFunctionSuggest": true,
+  "go.useLanguageServer": true
+}
